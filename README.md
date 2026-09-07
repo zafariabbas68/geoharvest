@@ -1,7 +1,5 @@
 
 
-## 📝 **Professional README.md for Your Repository**
-
 
 # 🌍 GeoHarvest Platform
 

@@ -2,10 +2,7 @@
 
 ## 📝 **Professional README.md for Your Repository**
 
-Here's a comprehensive, professional README that showcases your project:
 
-```bash
-cat > README.md << 'EOF'
 # 🌍 GeoHarvest Platform
 
 [![Java](https://img.shields.io/badge/Java-17-blue.svg)](https://adoptium.net/)

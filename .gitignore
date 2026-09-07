@@ -1,0 +1,21 @@
+# Compiled files
+/target/
+*.class
+
+# IDE files
+.idea/
+*.iml
+.settings/
+.classpath
+.project
+.DS_Store
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Docker
+*.pid

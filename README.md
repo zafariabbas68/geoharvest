@@ -242,18 +242,16 @@ This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENS
 ---
 
 **Built with ❤️ for the geospatial community. Designed for interoperability.**
-EOF
-```
+
 
 ---
 
 ## 🚀 **Push the Updated README**
 
-```bash
 git add README.md
 git commit -m "Add comprehensive README with badges, features, API docs, and usage examples"
 git push
-```
+
 
 ---
 
